@@ -1,0 +1,8 @@
+USA 1022 794 705
+Israel 1 1 7
+Great-Britain 263 295 289
+India 1 2 20
+Japan 5 1 0
+Germany 2040 111 808
+
+
